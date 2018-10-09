@@ -8,6 +8,7 @@ __author__='pzx'
 
 
 def main():
+    print("请输入一个整数：")
     pass
 
 if __name__ == '__main__':
